@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Global/SaurabhSDET/src/test/java/Day7/SecondTest.java">
+        <classes>
+            <class name="Day7.SecondTest">
+                <methods>
+                    <include name="openApp"/>
+                    <include name="Login"/>
+                    <include name="Close"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
